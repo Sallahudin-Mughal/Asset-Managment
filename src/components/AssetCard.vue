@@ -23,7 +23,7 @@
     </div>
 </template>
 
-<script>
+<script>    
 import ButtonComponent from './ButtonComponent.vue';
 import Modal from './Modal.vue';
 import { LocalStorageMixin } from '../mixins/LocalStorageMixin.js'
